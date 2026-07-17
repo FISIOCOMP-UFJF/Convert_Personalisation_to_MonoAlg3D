@@ -1,0 +1,7 @@
+Best solution id = 95
+fibre_speed = 0.3400 m/s
+sheet_speed = 0.1800 m/s
+normal_speed = 0.1500 m/s
+endo_dense_speed = nan m/s
+endo_sparse_speed = nan m/s
+purkinje_speed = nan m/s
